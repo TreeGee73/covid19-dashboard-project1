@@ -49,3 +49,24 @@ Here we would like to user to do everything on the front end. The options presen
 
 ## Links ##
 The deployed app can be accessed at: [https://anandlal1080.github.io/covid19-dashboard/](https://anandlal1080.github.io/covid19-dashboard/)
+
+## Technology
+
+CSS Framework: [Foundation](https://get.foundation/index.html)
+Bootstrap Depends on [JQuery](https://jquery.com/) and [JavaScript](https://www.javascript.com/) so these are also implimented on this site.
+Time Management: [moment.js](https://momentjs.com/) / [LUXON](https://moment.github.io/luxon/)
+Date Range Selection: [Litepick](https://wakirin.github.io/Lightpick/)
+Chart Creation: [Chart.js](https://www.chartjs.org/)
+
+## Link
+
+This app can be accessed at [covid19-dashboard](https://anandlal1080.github.io/covid19-dashboard/)
+
+## Credits
+Background image is a free to use image that was obtained from [Pexels.com](https://www.pexels.com/).
+
+## Contact
+Contact Theresa Grier at [treegee73@gmail.com](mailto:treegee73@gmail.com)
+Contact Allan Nandlal at [https://www.linkedin.com/in/allan-nandlal-24802818/](https://www.linkedin.com/in/allan-nandlal-24802818/)
+Contact Alexander Nieves at [https://github.com/ajsnow56](https://github.com/ajsnow56)
+Contact Devon Owens at [https://github.com/devonowens1](https://github.com/devonowens1)
